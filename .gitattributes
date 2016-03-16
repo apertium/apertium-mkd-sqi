@@ -1,0 +1,9 @@
+* text=auto !eol
+/MK-SQ.rtf -text
+/Makefile -text
+/apertium-mk-sq.mk-sq.dix -text
+dev/sq.80percent.txt -text
+dev/sq.noungenders.txt -text
+myproject/apertium-mk-sq.mk-sq.dix -text
+/sq.rlx -text
+/sq.xml -text
