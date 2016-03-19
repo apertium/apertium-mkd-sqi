@@ -6,6 +6,7 @@
     <sdef n="nt"     c="Neuter"/>
     <sdef n="m"      c="Masculine"/>
     <sdef n="mfn"    c=""/>
+    <sdef n="vbser"  c=""/>
 
     <sdef n="top"    c="Toponym"/>
     <sdef n="GD"     c="Gender to be determined"/>
@@ -2493,6 +2494,10 @@
     <e><p><l>Јужна<b/>Кореја<s n="np"/><s n="top"/><s n="f"/></l><r>Koreja<b/>e<b/>Jugut<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Трново<s n="np"/><s n="top"/><s n="nt"/></l><r>Tërnova<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Пештера<s n="np"/><s n="top"/><s n="f"/></l><r>Shpella<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+
+    <!-- SECTION: Verbs -->
+
+    <e><p><l>е<s n="vbser"/></l><r>jam<s n="vbser"/></r></p></e>
 
   </section>
 </dictionary>
