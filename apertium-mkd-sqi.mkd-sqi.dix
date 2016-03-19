@@ -150,8 +150,8 @@
     <e><p><l>развој<s n="n"/><s n="m"/></l><r>zhvillim<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>балкан<s n="n"/><s n="m"/></l><r>ballkan<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>организација<s n="n"/><s n="f"/></l><r>organizatë<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>мерка<s n="n"/><s n="f"/>masë</l><r><s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>колега<s n="n"/><s n="m"/>kolegë</l><r><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>мерка<s n="n"/><s n="f"/>masë</l><r>@<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>колега<s n="n"/><s n="m"/>kolegë</l><r>@<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>коалиција<s n="n"/><s n="f"/></l><r>koalicion<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>независност<s n="n"/><s n="f"/></l><r>pamvarur<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>членка<s n="n"/><s n="f"/></l><r>pjestare<s n="n"/><s n="f"/></r></p></e>
@@ -486,7 +486,7 @@
 <e><p><l>должност<s n="n"/><s n="f"/></l><r>borxh<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>штрајк<s n="n"/><s n="m"/></l><r>shtrajk<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>расправа<s n="n"/><s n="f"/></l><r>diskutim<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>пристаниште<s n="n"/><s n="nt"/>vendqëndrim</l><r><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>пристаниште<s n="n"/><s n="nt"/></l><r>vendqëndrim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>здружение<s n="n"/><s n="nt"/></l><r>bashkim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>предизвик<s n="n"/><s n="m"/></l><r>paralajmërim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>жител<s n="n"/><s n="m"/></l><r>qytetar<s n="n"/><s n="m"/></r></p></e>
@@ -903,7 +903,7 @@
 <e><p><l>болест<s n="n"/><s n="f"/></l><r>sёmundje<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>анализа<s n="n"/><s n="f"/></l><r>analizё<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>управување<s n="n"/><s n="nt"/></l><r>drejtim<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>сцена<s n="n"/><s n="f"/></l><r><s n="n"/>skenё<s n="f"/></r></p></e>
+<e><p><l>сцена<s n="n"/><s n="f"/></l><r>@<s n="n"/>skenё<s n="f"/></r></p></e>
 <e><p><l>парламентарец<s n="n"/><s n="m"/></l><r>deputet<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>земјиште<s n="n"/><s n="nt"/></l><r>tokё<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>врв<s n="n"/><s n="m"/></l><r>majё<s n="n"/><s n="f"/></r></p></e>
@@ -1457,7 +1457,7 @@
 <e><p><l>јајце<s n="n"/><s n="nt"/></l><r>vezë<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>искоренување<s n="n"/><s n="nt"/></l><r>crrёnjosje<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>емитување<s n="n"/><s n="nt"/></l><r>emitim<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>ексхумација<s n="n"/><s n="f"/></l><r> zhvarrosja <s n="n"/><s n="m"/></r></p></e>
+<e><p><l>ексхумација<s n="n"/><s n="f"/></l><r>zhvarrosja<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>хармонизирање<s n="n"/><s n="nt"/></l><r>harmonizim<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>разновидност<s n="n"/><s n="f"/></l><r>diversitet<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>оданочување<s n="n"/><s n="nt"/></l><r>tatimet<s n="n"/><s n="m"/></r></p></e>
