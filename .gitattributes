@@ -2,7 +2,6 @@
 /AUTHORS -text
 /COPYING -text
 /ChangeLog -text
-/MK-SQ.rtf -text
 /Makefile.am -text
 /NEWS -text
 /README -text
@@ -17,7 +16,8 @@
 /apertium-mkd-sqi.sqi-mkd.t3x -text
 /autogen.sh -text
 /configure.ac -text
+dev/MK-SQ.rtf -text
+dev/myproject/apertium-mk-sq.mk-sq.dix -text
 dev/sq.80percent.txt -text
 dev/sq.noungenders.txt -text
 /modes.xml -text
-myproject/apertium-mk-sq.mk-sq.dix -text
