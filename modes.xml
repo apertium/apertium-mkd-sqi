@@ -39,9 +39,6 @@
         <file name="mkd-sqi.autogen.bin"/>
       </program>
 
-      <program name="lt-proc -p">
-        <file name="mkd-sqi.autopgen.bin"/>
-      </program>
     </pipeline>
   </mode>
 
@@ -307,9 +304,6 @@
         <file name="sqi-mkd.autogen.bin"/>
       </program>
 
-      <program name="lt-proc -p">
-        <file name="sqi-mkd.autopgen.bin"/>
-      </program>
     </pipeline>
   </mode>
 
