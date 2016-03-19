@@ -5,6 +5,7 @@
     <sdef n="f"      c="Feminine"/>
     <sdef n="nt"     c="Neuter"/>
     <sdef n="m"      c="Masculine"/>
+    <sdef n="mfn"    c=""/>
 
     <sdef n="top"    c="Toponym"/>
     <sdef n="GD"     c="Gender to be determined"/>
@@ -74,7 +75,6 @@
     <e><p><l>четврток<s n="n"/><s n="m"/></l><r>e<b/>ejnte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>реформа<s n="n"/><s n="f"/></l><r>reformë<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>власт<s n="n"/><s n="f"/></l><r>qeverisje<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>евро<s n="n"/><s n="nt"/></l><r>euro<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>комисија<s n="n"/><s n="f"/></l><r>komision<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>петок<s n="n"/><s n="m"/></l><r>e<b/>premte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>закон<s n="n"/><s n="m"/></l><r>ligj<s n="n"/><s n="f"/></r></p></e>
@@ -90,7 +90,6 @@
     <e><p><l>цел<s n="n"/><s n="f"/></l><r>komplet<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>суд<s n="n"/><s n="m"/></l><r>gjygj<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>совет<s n="n"/><s n="m"/></l><r>këshillë<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>март<s n="n"/><s n="m"/></l><r>mars<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>посета<s n="n"/><s n="f"/></l><r>vizitë<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>поддршка<s n="n"/><s n="f"/></l><r>përkrahje<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>мај<s n="n"/><s n="m"/></l><r>maj<s n="n"/><s n="f"/></r></p></e>
@@ -101,11 +100,9 @@
     <e><p><l>група<s n="n"/><s n="f"/></l><r>grupë<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>дел<s n="n"/><s n="m"/></l><r>pjesë<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>пристап<s n="n"/><s n="m"/></l><r>qasje<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>јуни<s n="n"/><s n="m"/></l><r>qershor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>србин<s n="n"/><s n="m"/></l><r>serb<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>министерство<s n="n"/><s n="nt"/></l><r>ministria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>април<s n="n"/><s n="m"/></l><r>pril<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>јануари<s n="n"/><s n="m"/></l><r>janar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>прашање<s n="n"/><s n="nt"/></l><r>pyetje<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>октомври<s n="n"/><s n="m"/></l><r>tetor<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>декември<s n="n"/><s n="m"/></l><r>dhjetor<s n="n"/><s n="f"/></r></p></e>
@@ -113,13 +110,11 @@
     <e><p><l>сила<s n="n"/><s n="f"/></l><r>forcë<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>членство<s n="n"/><s n="nt"/></l><r>anëtar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>шеф<s n="n"/><s n="m"/></l><r>pronar<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>февруари<s n="n"/><s n="m"/></l><r>shkurt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>јули<s n="n"/><s n="m"/></l><r>korik<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>одбрана<s n="n"/><s n="f"/></l><r>mbrojtje<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>напор<s n="n"/><s n="m"/></l><r>përpjekje<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>случај<s n="n"/><s n="m"/></l><r>ngjarje<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>крај<s n="n"/><s n="m"/></l><r>fund<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>ноември<s n="n"/><s n="m"/></l><r>nëntor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>претпријатие<s n="n"/><s n="nt"/></l><r>kompani<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>проект<s n="n"/><s n="m"/></l><r>projekt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>план<s n="n"/><s n="m"/></l><r>plan<s n="n"/><s n="m"/></r></p></e>
@@ -128,7 +123,6 @@
     <e><p><l>одлука<s n="n"/><s n="f"/></l><r>zgjedhje<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ден<s n="n"/><s n="m"/></l><r>ditë<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>изјава<s n="n"/><s n="f"/></l><r>deklaratë<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>септември<s n="n"/><s n="m"/></l><r>shtator<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>заедница<s n="n"/><s n="f"/></l><r>bashkësi<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>сабота<s n="n"/><s n="f"/></l><r>e<b/>shtunë<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>број<s n="n"/><s n="m"/></l><r>numër<s n="n"/><s n="m"/></r></p></e>
@@ -139,7 +133,6 @@
     <e><p><l>област<s n="n"/><s n="f"/></l><r>lëmi<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>статус<s n="n"/><s n="m"/></l><r>status<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>обвинител<s n="n"/><s n="m"/></l><r>i<b/>pandehur<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>град<s n="n"/><s n="m"/></l><r>qytet<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>однос<s n="n"/><s n="m"/></l><r>raporte<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>борба<s n="n"/><s n="f"/></l><r>luftë<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>луѓе<s n="n"/><s n="mfn"/></l><r>njerëz<s n="n"/><s n="nt"/></r></p></e>
@@ -162,7 +155,6 @@
     <e><p><l>коалиција<s n="n"/><s n="f"/></l><r>koalicion<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>независност<s n="n"/><s n="f"/></l><r>pamvarur<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>членка<s n="n"/><s n="f"/></l><r>pjestare<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>август<s n="n"/><s n="m"/></l><r>gusht<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>програма<s n="n"/><s n="f"/></l><r>program<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>генерал<s n="n"/><s n="m"/></l><r>gjeneral<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>армија<s n="n"/><s n="f"/></l><r>armatë<s n="n"/><s n="m"/></r></p></e>
@@ -191,7 +183,7 @@
     <e><p><l>убиство<s n="n"/><s n="nt"/></l><r>vrasje<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>извор<s n="n"/><s n="m"/></l><r>burim<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>влез<s n="n"/><s n="m"/></l><r>hyrje<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>можност<s n="n"/><s n="f"/></l><r>mundësi<s n="n"/><s n="a"/></r></p></e>
+<!--    <e><p><l>можност<s n="n"/><s n="f"/></l><r>mundësi<s n="n"/><s n="a"/></r></p></e>-->
     <e><p><l>почеток<s n="n"/><s n="m"/></l><r>fillim<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>весник<s n="n"/><s n="m"/></l><r>gazetë<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>сектор<s n="n"/><s n="m"/></l><r>sektor<s n="n"/><s n="m"/></r></p></e>
@@ -225,7 +217,7 @@
     <e><p><l>мандат<s n="n"/><s n="m"/></l><r>mandat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>рамка<s n="n"/><s n="f"/></l><r>kornizë<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>информација<s n="n"/><s n="f"/></l><r>informacion<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>глас<s n="n"/><s n="m"/></l><r>votë<s n="n"/><s n="a"/></r></p></e>
+<!--    <e><p><l>глас<s n="n"/><s n="m"/></l><r>votë<s n="n"/><s n="a"/></r></p></e>-->
     <e><p><l>устав<s n="n"/><s n="m"/></l><r>kusht<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>стабилност<s n="n"/><s n="f"/></l><r>stabilitet<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>обид<s n="n"/><s n="m"/></l><r>përpjekje<s n="n"/><s n="f"/></r></p></e>
@@ -449,11 +441,10 @@
     <e><p><l>зона<s n="n"/><s n="f"/></l><r>zonë<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>муслиман<s n="n"/><s n="m"/></l><r>musliman<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>подготвеност<s n="n"/><s n="f"/></l><r>gatishmëri<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>универзитет<s n="n"/><s n="m"/></l><r>universitet<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>масакр<s n="n"/><s n="m"/></l><r>masakër<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>влијание<s n="n"/><s n="nt"/></l><r>kujdes<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>враќање<s n="n"/><s n="nt"/></l><r>kthim<s n="n"/><s n="nt"/></r></p></e> 
-<<<<<<< .mine
+
 <!-- 400 -->
 <e><p><l>средина<s n="n"/><s n="f"/></l><r>mjedis<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>декларација<s n="n"/><s n="f"/></l><r>deklarim<s n="n"/><s n="m"/></r></p></e>
@@ -499,7 +490,6 @@
 <e><p><l>здружение<s n="n"/><s n="nt"/></l><r>bashkim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>предизвик<s n="n"/><s n="m"/></l><r>paralajmërim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>жител<s n="n"/><s n="m"/></l><r>qytetar<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>телевизија<s n="n"/><s n="f"/></l><r>televizion<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>страница<s n="n"/><s n="f"/></l><r>faqe<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>мост<s n="n"/><s n="m"/></l><r>urë<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>контакт<s n="n"/><s n="m"/></l><r>kontakt<s n="n"/><s n="m"/></r></p></e>
@@ -594,14 +584,12 @@
 <e><p><l>недоверба<s n="n"/><s n="f"/></l><r>pabesë<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>животна# средина<s n="n"/><s n="f"/></l><r>mjedis<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>оценка<s n="n"/><s n="f"/></l><r>nota<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>спорт<s n="n"/><s n="m"/></l><r>sport<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>загуба<s n="n"/><s n="f"/></l><r>humbje<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>тензија<s n="n"/><s n="f"/></l><r>tension<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>река<s n="n"/><s n="f"/></l><r>lumi<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>дневник<s n="n"/><s n="m"/></l><r>ditar<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>телеком<s n="n"/><s n="m"/></l><r>telekom<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>стотица<s n="n"/><s n="f"/></l><r>qindëshe<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>комуникација<s n="n"/><s n="f"/></l><r>komunikim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>затворање<s n="n"/><s n="nt"/></l><r>mbyllje<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>историја<s n="n"/><s n="f"/></l><r>histori<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>бројка<s n="n"/><s n="f"/></l><r>numër<s n="n"/><s n="f"/></r></p></e>
@@ -659,7 +647,6 @@
 <e><p><l>невработеност<s n="n"/><s n="f"/></l><r>papunësi<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>лекар<s n="n"/><s n="m"/></l><r>mjek<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>постигнување<s n="n"/><s n="nt"/></l><r>arritje<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>земјотрес<s n="n"/><s n="m"/></l><r>tërmet<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>департмент<s n="n"/><s n="m"/></l><r>department<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>режисер<s n="n"/><s n="m"/></l><r>regjisor<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>наследство<s n="n"/><s n="nt"/></l><r>trashëgimi<s n="n"/><s n="m"/></r></p></e>
@@ -723,7 +710,7 @@
 <e><p><l>вирус<s n="n"/><s n="m"/></l><r>virus<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>сметка<s n="n"/><s n="f"/></l><r>fatura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>кредит<s n="n"/><s n="m"/></l><r>kradit<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>предмет<s n="n"/><s n="m"/></l><r>kryefjal<s n="n"/><s n="a"/></r></p></e>
+<!--<e><p><l>предмет<s n="n"/><s n="m"/></l><r>kryefjal<s n="n"/><s n="a"/></r></p></e>-->
 <e><p><l>замена<s n="n"/><s n="f"/></l><r>ndrim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>инфлација<s n="n"/><s n="f"/></l><r>influneca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>назначување<s n="n"/><s n="nt"/></l><r>takim<s n="n"/><s n="m"/></r></p></e>
@@ -901,7 +888,6 @@
 <e><p><l>демонстрација<s n="n"/><s n="f"/></l><r>demonstrim<s n="m"/><s n="m"/></r></p></e>
 <e><p><l>вработување<s n="n"/><s n="nt"/></l><r>punsim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>владеење<s n="n"/><s n="nt"/></l><r>udhëheqje<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>човек<s n="n"/><s n="m"/></l><r>njeri<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>физибилити студија<s n="n"/><s n="f"/></l><r>gjyqtari<s n="nt"/><s n="m"/></r></p></e>
 <e><p><l>брат<s n="n"/><s n="m"/></l><r>vëlla<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>тројка<s n="n"/><s n="f"/></l><r>treshja<s n="n"/><s n="f"/></r></p></e>
@@ -1255,7 +1241,6 @@
 <e><p><l>компензација<s n="n"/><s n="f"/></l><r>kompenzim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>давачка<s n="n"/><s n="f"/></l><r>dhënje<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>удел<s n="n"/><s n="m"/></l><r>pjesë<s n="n"/><s n="f"/></r></p></e> 
-=======
    
     <!-- 1200 -->
 <e><p><l>температура<s n="n"/><s n="f"/></l><r>temperaturё<s n="n"/><s n="f"/></r></p></e>
@@ -1310,7 +1295,7 @@
 <e><p><l>врнеж<s n="n"/><s n="m"/></l><r>reshje<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>профил<s n="n"/><s n="m"/></l><r>profil<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>претседателствување<s n="n"/><s n="nt"/></l><r>presidencë<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>новост<s n="n"/><s n="f"/></l><r>të</b>reja<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>новост<s n="n"/><s n="f"/></l><r>të<b/>reja<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>квалификација<s n="n"/><s n="f"/></l><r>kualifikim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>југ<s n="n"/><s n="m"/></l><r>jug<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>генерација<s n="n"/><s n="f"/></l><r>gjeneratë<s n="n"/><s n="f"/></r></p></e>
@@ -1399,8 +1384,7 @@
 <e><p><l>проекција<s n="n"/><s n="f"/></l><r>proeksion<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>продукција<s n="n"/><s n="f"/></l><r>produksion<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>предвидување<s n="n"/><s n="nt"/></l><r>parashikim<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>извршен<g><b/>директор</g><s n="n"/><s n="m"/></l><r>direktor</b>ekzekutiv<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>аквис<s n="n"/><s n="m"/></l><r>@<s n="n"/><s n="m"/></r></p></e><<don’t know
+<e><p><l>извршен<g><b/>директор</g><s n="n"/><s n="m"/></l><r>direktor<b/>ekzekutiv<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>сопруг<s n="n"/><s n="m"/></l><r>burrë<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>расчистување<s n="n"/><s n="nt"/></l><r>spastrim<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>разочарување<s n="n"/><s n="nt"/></l><r>padisponueshëm<s n="n"/><s n="nt"/></r></p></e>
@@ -1410,9 +1394,9 @@
 <e><p><l>составување<s n="n"/><s n="nt"/></l><r>asamble<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>самоубиство<s n="n"/><s n="nt"/></l><r>vetëvrasje<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>роман<s n="n"/><s n="m"/></l><r>roman<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>пресвртница<s n="n"/><s n="f"/></l><r>moment</b>historik<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>пресвртница<s n="n"/><s n="f"/></l><r>moment<b/>historik<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>премиера<s n="n"/><s n="f"/></l><r>premierë<s n="n"/><s n="f"/></r></p></e>
-<e><p> <e><p><l>одвојување<s n="n"/><s n="nt"/></l><r>ndarje<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>одвојување<s n="n"/><s n="nt"/></l><r>ndarje<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>наоѓање<s n="n"/><s n="nt"/></l><r>gjetje<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>јадење<s n="n"/><s n="nt"/></l><r>ngrënje<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>задржување<s n="n"/><s n="nt"/></l><r>mbajtje<s n="n"/><s n="f"/></r></p></e>
@@ -1525,7 +1509,7 @@
 <e><p><l>неефикасност<s n="n"/><s n="f"/></l><r>joefikase<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>мото<s n="n"/><s n="nt"/></l><r>motoja<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>контроверзност<s n="n"/><s n="f"/></l><r>kontraverze<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>водоснабдување<s n="n"/><s n="nt"/></l><r>furnizues</b>uji<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>водоснабдување<s n="n"/><s n="nt"/></l><r>furnizues<b/>uji<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>борење<s n="n"/><s n="nt"/></l><r>luftim<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>сол<s n="n"/><s n="f"/></l><r>kripё<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>приближување<s n="n"/><s n="nt"/></l><r>afrim<s n="n"/><s n="m"/></r></p></e>
@@ -1542,7 +1526,7 @@
 <e><p><l>скала<s n="n"/><s n="f"/></l><r>shkallё<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>раководење<s n="n"/><s n="nt"/></l><r>udhёheqje<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>пребројување<s n="n"/><s n="nt"/></l><r>numёrim<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>поткопување<s n="n"/><s n="nt"/></l><r>i</b>blerё<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>поткопување<s n="n"/><s n="nt"/></l><r>i<b/>blerё<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>попречување<s n="n"/><s n="nt"/></l><r>ndaluar<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>перцепција<s n="n"/><s n="f"/></l><r>perceptim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>кревање<s n="n"/><s n="nt"/></l><r>ngritje<s n="n"/><s n="nt"/></r></p></e>
@@ -1561,7 +1545,7 @@
 <e><p><l>поврзување<s n="n"/><s n="nt"/></l><r>lidhje<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>копродукција<s n="n"/><s n="f"/></l><r>koproduksion<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>гора<s n="n"/><s n="f"/></l><r>ullinj<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>уметничко<g><b/>лизгање</g><s n="n"/><s n="nt"/></l><r>rёshqitje</b>artistike<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>уметничко<g><b/>лизгање</g><s n="n"/><s n="nt"/></l><r>rёshqitje<b/>artistike<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>трансформирање<s n="n"/><s n="nt"/></l><r>transformim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>спасување<s n="n"/><s n="nt"/></l><r>shpёtim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>рударство<s n="n"/><s n="nt"/></l><r>minierё<s n="n"/><s n="m"/></r></p></e>
@@ -1593,7 +1577,7 @@
 <e><p><l>трансплантација<s n="n"/><s n="f"/></l><r>transplatim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>теорија<s n="n"/><s n="f"/></l><r>teori<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>приклучување<s n="n"/><s n="nt"/></l><r>lidhje<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>правосудство<s n="n"/><s n="nt"/></l><r>drejtё</b>gjykim<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>правосудство<s n="n"/><s n="nt"/></l><r>drejtё<b/>gjykim<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>овошје<s n="n"/><s n="nt"/></l><r>pemё<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>коса<s n="n"/><s n="f"/></l><r>flokё<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>интерпретација<s n="n"/><s n="f"/></l><r>interpretim<s n="n"/><s n="m"/></r></p></e>
@@ -1689,7 +1673,6 @@
 <e><p><l>бубрег<s n="n"/><s n="m"/></l><r>veshkë<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>бука<s n="n"/><s n="f"/></l><r>ah<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>бука<s n="n"/><s n="f"/></l><r>zhurmë<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>бука<s n="n"/><s n="f"/></l><r>zhurmë<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>буква<s n="n"/><s n="f"/></l><r>letër<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>буква<s n="n"/><s n="f"/></l><r>shkronjë<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>бут<s n="n"/><s n="m"/></l><r>kofshë<s n="n"/><s n="f"/></r></p></e>
@@ -1741,11 +1724,9 @@
 <e><p><l>император<s n="n"/><s n="m"/></l><r>perandor<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>инженерство<s n="n"/><s n="nt"/></l><r>inxhinieri<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>инспирација<s n="n"/><s n="f"/></l><r>frymëzim<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>инспирација<s n="n"/><s n="f"/></l><r>frymëzim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>интелигенција<s n="n"/><s n="f"/></l><r>inteligjencë<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>интелигенција<s n="n"/><s n="f"/></l><r>mençuri<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>интелигенција<s n="n"/><s n="f"/></l><r>zgjuarsi<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>интеракција<s n="n"/><s n="f"/></l><r>bashkëveprim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>интеракција<s n="n"/><s n="f"/></l><r>bashkëveprim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>инјекција<s n="n"/><s n="f"/></l><r>injeksion<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>искреност<s n="n"/><s n="f"/></l><r>ndershmëri<s n="n"/><s n="f"/></r></p></e>
@@ -1761,7 +1742,6 @@
 <e><p><l>конец<s n="n"/><s n="m"/></l><r>fill<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>конзервација<s n="n"/><s n="f"/></l><r>ruajtje<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>контаминација<s n="n"/><s n="f"/></l><r>ndotje<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>концентрација<s n="n"/><s n="f"/></l><r>përqëndrim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>концентрација<s n="n"/><s n="f"/></l><r>përqëndrim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>кооперација<s n="n"/><s n="f"/></l><r>bashkëpunim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>кора<s n="n"/><s n="f"/></l><r>kore<s n="n"/><s n="f"/></r></p></e>
@@ -1782,7 +1762,6 @@
 <e><p><l>манипулација<s n="n"/><s n="f"/></l><r>manipulim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>манифестација<s n="n"/><s n="f"/></l><r>ngjarje<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>маст<s n="n"/><s n="f"/></l><r>yndyrë<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>месечина<s n="n"/><s n="f"/></l><r>hënë<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>меч<s n="n"/><s n="m"/></l><r>shpatë<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>милост<s n="n"/><s n="f"/></l><r>mëshirë<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>мисла<s n="n"/><s n="f"/></l><r>mendim<s n="n"/><s n="m"/></r></p></e>
