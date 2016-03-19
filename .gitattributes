@@ -1,6 +1,23 @@
 * text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
 /MK-SQ.rtf -text
+/Makefile.am -text
+/NEWS -text
+/README -text
 /apertium-mkd-sqi.mkd-sqi.dix -text
+/apertium-mkd-sqi.mkd-sqi.lrx -text
+/apertium-mkd-sqi.mkd-sqi.t1x -text
+/apertium-mkd-sqi.mkd-sqi.t2x -text
+/apertium-mkd-sqi.mkd-sqi.t3x -text
+/apertium-mkd-sqi.sqi-mkd.lrx -text
+/apertium-mkd-sqi.sqi-mkd.t1x -text
+/apertium-mkd-sqi.sqi-mkd.t2x -text
+/apertium-mkd-sqi.sqi-mkd.t3x -text
+/autogen.sh -text
+/configure.ac -text
 dev/sq.80percent.txt -text
 dev/sq.noungenders.txt -text
+/modes.xml -text
 myproject/apertium-mk-sq.mk-sq.dix -text
