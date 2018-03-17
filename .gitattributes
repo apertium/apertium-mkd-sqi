@@ -21,3 +21,8 @@ dev/myproject/apertium-mk-sq.mk-sq.dix -text
 dev/sq.80percent.txt -text
 dev/sq.noungenders.txt -text
 /modes.xml -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
