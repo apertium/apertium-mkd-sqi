@@ -1,0 +1,118 @@
+[-d05eqKRpe_o#0] ^*Shkalla$ ^*Rihterit$.
+[/-d05eqKRpe_o]
+[-gOP_qPxwT_O#0] ^*Forcat$ ^*siguruese$.
+[/-gOP_qPxwT_O]
+[-sHo-yVZrdY9#0] ^*Plan$ ^*aksionar$.
+[/-sHo-yVZrdY9]
+[03N4gKTlscf5#0] ^*Shfrytëzimi$ ^*i$ ^*shpeshtë$.
+[/03N4gKTlscf5]
+[0LpQjg5E3GDG#0] ^*Do$ ^*arrija$.
+[/0LpQjg5E3GDG]
+[0tTmHN9vWjBB#0] ^*Akcizë$ ^*e$ ^*madhe$.
+[/0tTmHN9vWjBB]
+[1r8zmHAA9nN3#0] ^*Shtatëdhjeti$.
+[/1r8zmHAA9nN3]
+[3FY9ALEpQg1a#0] ^*Patundshmëri$.
+[/3FY9ALEpQg1a]
+[5VEEnoE4TwTG#0] ^*Jo$ ^*kordinim$.
+[/5VEEnoE4TwTG]
+[5chCfwPD6BqR#0] ^*Lëndinat$ ^*e$ ^*gjelbërta$.
+[/5chCfwPD6BqR]
+[6_CN9tHKegpP#0] ^Проучување<n><nt><pl><nom><ind>$ ^*fizibilituese$.
+[/6_CN9tHKegpP]
+[6am7elAHkH7h#0] ^*Drejtor$ ^*kryrës$.
+[/6am7elAHkH7h]
+[7uLdWkXCvO8Q#0] ^*Dëshirë$ ^*e$ ^*fuqishme$.
+[/7uLdWkXCvO8Q]
+[9Xm3O8e0l_J3#0] ^*E$ ^*kam$ ^*paguar$.
+[/9Xm3O8e0l_J3]
+[9gCHoBwVhJHE#0] ^*akvis$.
+[/9gCHoBwVhJHE]
+[BAa1VlgEF4RR#0] ^*Cdo$ ^*mëngjes$ ^*pastrohem$.
+[/BAa1VlgEF4RR]
+[CKfNIV7THTpn#0] ^*Do$ ^*të$ ^*shkruaj$.
+[/CKfNIV7THTpn]
+[GcSlmr8awGeD#0] ^*Lexoi$.
+[/GcSlmr8awGeD]
+[Gtxwg4Rmk_Mn#0] ^*Agjendë$.
+[/Gtxwg4Rmk_Mn]
+[K3QHwpCDKvrF#0] ^Премин<n><m><sg><nom><ind>$.
+[/K3QHwpCDKvrF]
+[LY6WQInWifz5#0] ^*Ambient$ ^*jetësor$.
+[/LY6WQInWifz5]
+[Mxkw-xf9E4uI#0] ^*Të$ ^*dhënat$ ^*e$ ^*reja$.
+[/Mxkw-xf9E4uI]
+[P5JwPBTcR7dT#0] ^*Analizë$ ^*serioze$.
+[/P5JwPBTcR7dT]
+[RYkVnCOVcJ5W#0] ^*Qielli$ ^е<vbser><pri><p3><sg>$ ^*i$ ^*kaltër$.
+[/RYkVnCOVcJ5W]
+[SWa-WWaRxDI7#0] ^*Ai$ ^*kishte$ ^е<vbser><pp>$ ^*i$ ^*vrarë$.
+[/SWa-WWaRxDI7]
+[TMuiX7ap4SaS#0] ^*Lëndina$ ^*e$ ^*gjelbërt$.
+[/TMuiX7ap4SaS]
+[UAudHjs32QvT#0] ^*Ai$ ^*e$ ^*ka$ ^*paguar$.
+[/UAudHjs32QvT]
+[UF1ZAMpPWddx#0] ^*Gota$ ^е<vbser><pri><p3><sg>$ ^*mbi$ ^*tavolinë$.
+[/UF1ZAMpPWddx]
+[V6Py-bAsRFXe#0] ^*Gaz$ ^*me$ ^ефект<n><m><sg><acc><def>$ ^*e$ ^*oborit$ ^*prej$ ^*qelqi$.
+[/V6Py-bAsRFXe]
+[WCUbHP0YzjBZ#0] ^*Ai$ ^*ka$ ^е<vbser><pp>$ ^*i$ ^*vrarë$.
+[/WCUbHP0YzjBZ]
+[WCiO2FWqAwd_#0] ^*Tridhjeti$.
+[/WCiO2FWqAwd_]
+[Wfz1H3XQpZuA#0] ^*Hapi$ ^*i$ ^*madh$.
+[/Wfz1H3XQpZuA]
+[bQu2FECdsaC4#0] ^Пребарување<n><nt><sg><nom><ind>$.
+[/bQu2FECdsaC4]
+[eX4pM7eI2f6l#0] ^*Nënsekretar$.
+[/eX4pM7eI2f6l]
+[eaBlztLtxRTb#0] ^*Përfaqsues$.
+[/eaBlztLtxRTb]
+[ecXZAKLLayLD#0] ^Самит<n><m><sg><nom><ind>$.
+[/ecXZAKLLayLD]
+[fi9pYG3os29c#0] ^*Të$ ^*ka$ ^*shkruajtur$.
+[/fi9pYG3os29c]
+[g9iguqlBVhjQ#0] ^*E$ ^*kujt$?
+[/g9iguqlBVhjQ]
+[gkMDOn_4v6c_#0] ^*Nuk$ ^*erdh$.
+[/gkMDOn_4v6c_]
+[hNa3LeWg7YJk#0] ^*Plane$ ^*aksionare$.
+[/hNa3LeWg7YJk]
+[j0cuSrWX4X9E#0] ^*Dritë$ ^*e$ ^*gjelbër$.
+[/j0cuSrWX4X9E]
+[ji84WDEO70Wc#0] ^*Do$ ^*ta$ ^*paguaja$.
+[/ji84WDEO70Wc]
+[kOdcwGMZ_No8#0] ^*Shtatëdhejti$.
+[/kOdcwGMZ_No8]
+[kUh1HAkJ0ww5#0] ^*Ai$ ^*shkruan$ ^*romane$.
+[/kUh1HAkJ0ww5]
+[mIXYpIW59scj#0] ^*Unë$ ^*e$ ^*kam$ ^*parë$ ^*atë$.
+[/mIXYpIW59scj]
+[nNFvt6jv1y-W#0] ^*Sheqer$ ^*i$ ^*bardhë$.
+[/nNFvt6jv1y-W]
+[obsDcIuzdzsR#0] ^*Dënim$ ^*burgu$.
+[/obsDcIuzdzsR]
+[ol78p1O91KnG#0] ^*Pastrohem$ ^*cdo$ ^*mëngjes$.
+[/ol78p1O91KnG]
+[qVznZmH9Ux7P#0] ^*çfar$?
+[/qVznZmH9Ux7P]
+[qb6mlOQ_KVDK#0] ^*Tashmë$ ^*kam$ ^*ngrënë$.
+[/qb6mlOQ_KVDK]
+[qqlHIBH0y74O#0] ^*Lexuan$.
+[/qqlHIBH0y74O]
+[r-bvQhVO3q8N#0] ^*Duhet$ ^*të$ ^*kemi$ ^*aritur$.
+[/r-bvQhVO3q8N]
+[r5DiZ_WXvWe_#0] ^*Veturë$.
+[/r5DiZ_WXvWe_]
+[sypJDZrCHK8b#0] ^*Do$ ^*ta$ ^*mbaroja$.
+[/sypJDZrCHK8b]
+[tc5OMO7A_0DH#0] ^*Shferc$ ^*jo$ ^*legal$.
+[/tc5OMO7A_0DH]
+[umIeIM08s4in#0] ^*Kemi$ ^*mbaruar$.
+[/umIeIM08s4in]
+[uyMH9EkcjD4U#0] ^*Gjallesë$.
+[/uyMH9EkcjD4U]
+[vgkDq8zKJ8mN#0] ^*Mandator$.
+[/vgkDq8zKJ8mN]
+[wDdLbi3etTDS#0] ^Амбасада<n><f><sg><nom><def>$ ^*Suedeze$.
+[/wDdLbi3etTDS]

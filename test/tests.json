@@ -1,0 +1,10 @@
+{
+    "mkd-sqi-pending": {
+        "input": "mkd-sqi-pending-input.txt",
+        "mode": "mkd-sqi"
+    },
+    "sqi-mkd-pending": {
+        "input": "sqi-mkd-pending-input.txt",
+        "mode": "sqi-mkd"
+    }
+}
